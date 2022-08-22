@@ -1,1 +1,3 @@
-# Perceptron-Model-
+# Perceptron-Model
+
+Although perceptron models are not much of use but still gives knowledge about how descision making, perceptron is just like nurons of human brains which is used to make a particular descision about a topic. In this model i have used two independent parameters petal length and Petal width to find the species of a particular flower. the output that we got in the form of true and false after giving some input commands was then converted to int64 to get the  ans in form of 0 or 1. This basic project also used sklearning accuracy prediction function to predict how successful the model was.
